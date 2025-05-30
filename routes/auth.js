@@ -3,8 +3,11 @@ const router = express.Router();
 const fs = require('fs');
 const path = require('path');
 const jwt = require('jsonwebtoken');
+const dotenv = require('dotenv');
+dotenv.config();
+const SECRET = process.env.SECRET;
+
 const USERFILE = path.join(__dirname, '../data/users.json');
-const SECRET = 'shhhh';
 
 function readfsync(fpath) {
     const data = fs.readFileSync(fpath, 'utf-8');

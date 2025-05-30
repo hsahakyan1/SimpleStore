@@ -1,1 +1,27 @@
-[]
+[[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "A comfortable wireless mouse with ergonomic design.",
+    "price": 25.99,
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "description": "Noise-cancelling over-ear headphones with Bluetooth 5.0.",
+    "price": 59.99,
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Coffee Mug",
+    "description": "Ceramic coffee mug, 350ml, dishwasher safe.",
+    "price": 8.49,
+    "category": "Kitchenware",
+    "inStock": false
+  }
+]
+]

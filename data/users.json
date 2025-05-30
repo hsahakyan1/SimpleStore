@@ -1,1 +1,32 @@
-[]
+[
+  [
+    {
+      "name": "Alice Smith",
+      "password": "alice123",
+      "age": 30,
+      "email": "alice@example.com",
+      "role": "user"
+    },
+    {
+      "name": "Bob Johnson",
+      "password": "bobSecure!@#",
+      "age": 25,
+      "email": "bob@example.org",
+      "role": "user"
+    },
+    {
+      "name": "Charlie Lee",
+      "password": "charlie_pw",
+      "age": 28,
+      "email": "charlie.lee@example.net",
+      "role": "user"
+    }
+  ],
+  {
+    "name": "Hrach",
+    "password": "sahakyan123",
+    "age": 21,
+    "email": "hsahakyan@gmail",
+    "role": "user"
+  }
+]
